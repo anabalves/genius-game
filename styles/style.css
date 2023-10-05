@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Hind+Madurai:wght@300;400;500;600;700&family=Iceland&display=swap');
 
 :root {
-    --blue-bg: hsl(212, 38%, 13%);
-    --white: hsl(0, 0%, 100%);
-
-    --normal-green: hsl(147, 100%, 33%);
+	--blue-bg: hsl(212, 38%, 13%);
+	--white: hsl(0, 0%, 100%);
+	
+	--normal-green: hsl(147, 100%, 33%);
 	--normal-red: hsl(357, 83%, 34%);
 	--normal-yellow: hsl(49, 93%, 41%);
 	--normal-blue: hsl(211, 88%, 30%);
-
+	
 	--light-green: 	hsl(147, 100%, 54%);
 	--light-red: hsl(0, 100%, 65%);
 	--light-yellow: hsl(48, 99%, 62%);
@@ -16,19 +16,19 @@
 	
 	--border: hsl(0, 0%, 20%);
 	--center: hsl(283, 17%, 92%);
-
+	
 	--counter-bg: hsl(351, 82%, 11%);
 	--counter-off: hsl(351, 81%, 15%);
 	--counter-on: hsl(352, 89%, 46%);
-
-    --led-off: 	hsl(351, 81%, 15%);
-    --led-on: hsl(352, 89%, 46%);
+	
+	--led-off: 	hsl(351, 81%, 15%);
+	--led-on: hsl(352, 89%, 46%);
 	
 	--switch: hsl(206, 72%, 53%);
-
+	
 	--game-size: 48rem;
 	--game-border: 1.5rem solid var(--border);
-  }
+}
 
 * {
     margin: 0;
